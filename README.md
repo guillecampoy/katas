@@ -1,2 +1,2 @@
 # katas
-My first atempt to share real life coding cases
+Lista de katas realizadas para desarrollar mis habilidades como desarrollador, pero sobre todo para divertirse.
